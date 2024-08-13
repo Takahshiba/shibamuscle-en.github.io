@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://en.shibamuscle.com/sitemap.xml
