@@ -792,6 +792,12 @@ footer {
         padding: 15px;
     }
 
+    .ad-container {
+        width: 100%;
+        max-width: 100%;
+        padding: 15px;
+    }
+
     .main-image-title h1 {
         font-size: 30px;
     }
@@ -975,6 +981,14 @@ footer {
 @media (max-width: 600px) {
 
     .container {
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+
+    .ad-container {
         width: 100%;
         max-width: 100%;
         margin: 0;
