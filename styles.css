@@ -160,6 +160,16 @@ nav {
     border-radius: 10px;
 }
 
+.ad-container {
+    background-color: #E0F7E9;
+    width: 60%;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
 .section-title {
     text-align: left;
     font-size: 25px;
@@ -782,6 +792,12 @@ footer {
         padding: 15px;
     }
 
+    .ad-container {
+        width: 100%;
+        max-width: 100%;
+        padding: 15px;
+    }
+
     .main-image-title h1 {
         font-size: 30px;
     }
@@ -965,6 +981,14 @@ footer {
 @media (max-width: 600px) {
 
     .container {
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+
+    .ad-container {
         width: 100%;
         max-width: 100%;
         margin: 0;
