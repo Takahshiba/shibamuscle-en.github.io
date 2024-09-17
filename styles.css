@@ -160,6 +160,16 @@ nav {
     border-radius: 10px;
 }
 
+.ad-container {
+    background-color: #E0F7E9;
+    width: 60%;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
 .section-title {
     text-align: left;
     font-size: 25px;
