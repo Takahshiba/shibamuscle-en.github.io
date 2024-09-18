@@ -1084,8 +1084,8 @@ footer {
     }
 
     .tooltip-average .tooltiptext-average {
-        width: 180px;
-        font-size: 14px;
+        width: 100px;
+        font-size: 10px;
         margin-left: -90px;
     }
 
@@ -1103,10 +1103,6 @@ footer {
         width: 25px;
     }
 
-    .title-standards {
-        font-size: 20px;
-    }
-
     .subtitle-standards {
         font-size: 12px;
     }
@@ -1117,8 +1113,8 @@ footer {
     }
 
     .tooltip .tooltiptext {
-        width: 180px;
-        font-size: 14px;
+        width: 100px;
+        font-size: 10px;
         margin-left: -90px;
     }
 
